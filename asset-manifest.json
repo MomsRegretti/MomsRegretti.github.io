@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MomsRegretti.github.io/static/css/main.9899d090.css",
+    "main.js": "/MomsRegretti.github.io/static/js/main.ffd461af.js",
+    "static/js/787.28cb0dcd.chunk.js": "/MomsRegretti.github.io/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Github logo.png": "/MomsRegretti.github.io/static/media/Github logo.353f5439677a188b647b.png",
+    "index.html": "/MomsRegretti.github.io/index.html",
+    "main.9899d090.css.map": "/MomsRegretti.github.io/static/css/main.9899d090.css.map",
+    "main.ffd461af.js.map": "/MomsRegretti.github.io/static/js/main.ffd461af.js.map",
+    "787.28cb0dcd.chunk.js.map": "/MomsRegretti.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9899d090.css",
+    "static/js/main.ffd461af.js"
+  ]
+}
